@@ -1,0 +1,54 @@
+body {
+	background-color: #e6efea;
+}
+
+.buttons-view {
+	width: 100%;
+	padding-left: 40px;
+}
+
+#add-cartoon {
+	background-color: #6cd1b9;
+	color: white;
+	border-radius: 8px;
+	padding: 10px 10px;
+	font-size: 16px;
+	border: 2px solid #6cd1b9;
+}
+
+button {
+	margin: 10px;
+	background-color: #6cd1b9;
+	color: white;
+	border-radius: 8px;
+	padding: 10px 10px;
+	font-size: 16px;
+	border: 2px solid #6cd1b9;
+}
+
+
+div, form, input {
+      margin: 10px;
+
+  }
+
+.col-lg-10 {
+    float: left;
+    width: 75%;
+    padding: 10px;
+}
+
+.col-lg-2 {
+    float: right;
+    width: 25%;
+    padding: 10px;
+}
+
+img {
+	float: left;
+	padding: 20px 10px 10px 10px;
+}
+
+p {
+	float: left;
+}
